@@ -1,3 +1,1 @@
-# race-project using esp32 and node mcu
-
-
+# race-project using esp32,node mcu and ultrasonic sensors
