@@ -1,2 +1,3 @@
-# race-
-It count the total time of racer .
+# race-project using esp32 and node mcu
+
+
